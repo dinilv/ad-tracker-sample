@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "github.com/micro/micro/api/proto/api.proto";
+
+ message Message {
+	map<string, string> reqh=1;
+  int32 trackingActivity=2;
+}

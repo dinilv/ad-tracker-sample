@@ -1,0 +1,84 @@
+[{
+	"offer_id": "4001",
+	"affiliate_id": "101",
+	"minute": 0,
+	"hour": 0,
+	"date": "01-04-2018",
+	"operator_report_details": [{
+			"operator_id": "101",
+			"mt_sent": 150,
+			"mt_sent_by_operator": 140,
+			"mt_success": 100,
+			"dr_fail": 20,
+			"dr_unknown": 30,
+			"mt_retry": 40,
+			"dr_delivered": 120,
+			"un_subscriptions": 70,
+			"subscribers": 15890,
+			"subscription_details": [{
+					"day": 0,
+					"count": 1000
+				},
+				{
+					"day": 7,
+					"count": 12000
+				},
+				{
+					"day": 15,
+					"count": 32000
+				}
+			],
+			"un_subscription_details": [{
+					"day": 0,
+					"count": 7
+				},
+				{
+					"day": 7,
+					"count": 15
+				},
+				{
+					"day": 15,
+					"count": 35
+				}
+			]
+		},
+		{
+			"operator_id": "2",
+			"mt_sent": 180,
+			"mt_sent_by_operator": 180,
+			"mt_success": 180,
+			"dr_fail": 17,
+			"dr_unknown": 43,
+			"dr_delivered": 150,
+			"mt_retry": 35,
+			"un_subscriptions": 60,
+			"subscribers": 17890,
+			"subscription_details": [{
+					"day": 0,
+					"count": 1000
+				},
+				{
+					"day": 7,
+					"count": 12000
+				},
+				{
+					"day": 15,
+					"count": 32000
+				}
+			],
+			"un_subscription_details": [{
+					"day": 0,
+					"count": 4
+				},
+				{
+					"day": 7,
+					"count": 12
+				},
+				{
+					"day": 15,
+					"count": 32
+				}
+			]
+		}
+	]
+}]
